@@ -58,3 +58,4 @@ layout: statement
 <!--
 * Note that this expansion rarely takes the form of specific authorial attribution in the same way as Midr. Teh. 1:2.
 -->
+---
