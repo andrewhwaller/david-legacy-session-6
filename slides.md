@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Rebuilding the Fallen Tent - Session 5
+title: Rebuilding the Fallen Tent - Session 6
 mdc: true
 download: true
 export:
