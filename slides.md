@@ -58,4 +58,94 @@ layout: statement
 <!--
 * Note that this expansion rarely takes the form of specific authorial attribution in the same way as Midr. Teh. 1:2.
 -->
+
 ---
+layout: statement
+---
+
+# How is the character of David developed in early Jewish literature?
+## Chronicles: ca. 4th c. BC
+## *Psalms of Solomon*/Sirach: ca. 2nd c. BC
+## Qumran: ca. 2nd c. BC--1st c. AD
+## Josephus and Pseudo-Philo: 1st c. AD
+
+<!--
+* What are the unique contributions of various early Jewish texts to the understanding of David during this period?
+* I won't attempt to exhaustively describe David in each text or to address all the various presentations of David in early Jewish literature, but reviewing a selection will give us a nice overview.
+-->
+---
+layout: quote 
+---
+
+# 1 Chronicles 21:28--22:1
+At that time, when David saw that the <sc>Lord</sc> had answered him at the threshing floor of Ornan the Jebusite, he made his sacrifices there.
+For the tabernacle of the <sc>Lord</sc>, which Moses had made in the wilderness, and the altar of burnt offering were at that time in the high place at Gibeon\.\.\.\.
+Then David said, “Here shall be the house of the <sc>Lord</sc> God and here the altar of burnt offering for Israel.”
+
+<!--
+* Notably, David is modifying the location of Israel's altar.
+* Of course, he's doing so in response to a divine sign of fire from heaven, but nevertheless, this constitutes a modification to the Mosaic order that is taking place largely at David's command.
+-->
+
+---
+layout: quote
+---
+
+# 1 Chronicles 23:25--32
+\[David took a census of the Levites and organized their houses.\]
+For David said, “The <sc>Lord</sc>, the God of Israel, has given rest to his people; and he resides in Jerusalem forever.
+And so the Levites no longer need to carry the tabernacle or any of the things for its service...
+but their duty shall be to assist the descendants of Aaron for the service of the house of the <sc>Lord</sc>, having the care of the courts and the chambers, the cleansing of all that is holy, and any work for the service of the house of God.\.\.\.
+And they shall stand every morning, thanking and praising the <sc>Lord</sc>, and likewise at evening, and whenever burnt offerings are offered to the <sc>Lord</sc> on sabbaths, new moons, and appointed festivals, according to the number required of them, regularly before the <sc>Lord</sc>.
+Thus they shall keep charge of the tent of meeting and the sanctuary, and shall attend the descendants of Aaron, their kindred, for the service of the house of the <sc>Lord</sc>.”
+
+<!--
+* A few things are worth noting.
+* First, the shift in the duties of the Levities is connected to the establishment of the divine presence in Jerusalem.
+  * That is, whereas previously a mobile tabernacle was appropriate for God's presence with his people, now that Israel has been given rest and Jerusalem has become the permanent residence of the divine presence, the tabernacle duties must give way to something new.
+  * The Levites were previously tasked with carrying the tabernale and its furnishings, but now they will assist the priests in the care of the temple.
+* Second, these new duties also involve musical service.
+  * The Levites are to stand every morning and evening, thanking and praising the Lord.
+  * David isn't merely shifting around Israel's liturgical personnel; he's establishing new practices and making significant alterations to the previous liturgical order.
+  * 1 Chronicles goes on to describe the various liturgical guilds that are formed to preserve the Levitical liturgical traditions going forward.
+-->
+
+---
+layout: quote
+---
+
+# 1 Chronicles 28:11--19
+Then David gave his son Solomon the plan of the vestibule of the temple, and of its houses, its treasuries, its upper rooms, and its inner chambers, and of the room for the mercy seat;
+and the plan of all that he had \[by the Spirit\]\.\.\.\.
+\[David then said to Solomon,\] “All this, in writing at the <sc>Lord</sc>’s direction, he made clear to me—the plan of all the works.”
+
+<!--
+* Many English translations have "all that he had in mind" in v. 12, but I opt for the more prophetically-tinged "by the Spirit" here (MT: ותבנית כל אשר היה ברוח עמו; LXX: ὃ εἶχεν
+ἐν πνεύματι αὐτοῦ).
+  * On this point, see Jürg Hutzli,“David in the Role of a Second Moses – The Revelation of the Temple-Model (Tabnît) in 1 Chronicles 28”, in *Chronicles and the Priestly Literature of the Hebrew Bible*, ed. Jaeyoung Jeon and Louis C. Jonker, *BZAW* 528 (Berlin: De Gruyter, 2021), 325–26.
+-->
+
+---
+layout: quote
+---
+
+# *Pss. Sol.* 17:23--51
+See, O Lord, and raise up their king for them, a son of David, for the proper time that you see, God, to rule over Israel your servant. 
+And undergird him with strength to shatter unrighteous rulers. 
+Cleanse Jerusalem from the nations that trample it in destruction, to expel sinners from the inheritance in wisdom, in righteousness, to rub out the arrogance of the sinner like a potter’s vessel, to crush all their support with an iron rod\.\.\.\. 
+And he will cleanse Jerusalem with sanctification, as also from the beginning, for nations to come from the edge of the earth to see his glory, bringing as gifts its utterly weakened sons, and to see the glory of the Lord that God glorified\.\.\.\. 
+For he will not hope in horse and rider and bow, or multiply gold nor silver to himself for battle, and he will not gather hopes by many for the day of war. 
+The Lord himself is his King, the hope of the one who is mighty by the hope of God, and he will show mercy to all the nations before him in fear\.\.\.\.
+Blessed are those who live in those days, to see the good things of Israel in the gathering of tribes; may God do it. 
+May God speed his mercy upon Israel; he will rescue us from the impurity of profane enemies. 
+The Lord himself is our King forever and further. 
+
+<!--
+* This is one of the most descriptive messianic texts from the Second Temple period.
+* This passage combines themes and motifs from several different biblical texts, including Jer 23, Isa 11, Psalm 2, and others.
+  * We have the son of David smashing the evil rulers of the nations, like Psalm 2.
+  * We have the language of purification and cleansing from Ezekiel.
+  * We have a righteous ruler, obeying the law of the king from Deuteronomy, whose own king is God himself.
+  * All of this is connected to the regathering of Israel's tribes; the post-exilic restoration involves this son of David.
+-->
+
