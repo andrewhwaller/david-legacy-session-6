@@ -276,8 +276,10 @@ layout: quote
 
 # Pseudo-Philo, *Liber Antiquitatum Biblicarum* 61.5--9
 David set out, and he took seven stones and wrote on them the names of his fathers, Abraham, Isaac, and Jacob, Moses and Aaron, and his own name and that of the Lord.
-God sent Zeruel, the angel in charge of power\.\.\.\.\
-\[David taunts Goliath, etc.\]\
+God sent Zeruel, the angel in charge of power.
+
+\[David taunts Goliath, etc.\]
+
 David put a stone in the sling and struck the Philistine on his forehead.
 He ran toward him and unsheathed his sword. Goliath, while he still had life in him, said to him, “Hurry and kill me, and rejoice.”
 David said to him, “Before you die, open your eyes and see your slayer who has killed you.”
