@@ -270,3 +270,18 @@ David went out after them and took stones from the forest and killed them.
 God said to him, “Behold, with stones I have delivered up these beasts for you.
 This will be a sign for you that hereafter you will kill the enemy of my people with stones.”
 
+---
+layout: quote
+---
+
+# Pseudo-Philo, *Liber Antiquitatum Biblicarum* 61.5--9
+David set out, and he took seven stones and wrote on them the names of his fathers, Abraham, Isaac, and Jacob, Moses and Aaron, and his own name and that of the Lord.
+God sent Zeruel, the angel in charge of power\.\.\.\.\
+\[David taunts Goliath, etc.\]\
+David put a stone in the sling and struck the Philistine on his forehead.
+He ran toward him and unsheathed his sword. Goliath, while he still had life in him, said to him, “Hurry and kill me, and rejoice.”
+David said to him, “Before you die, open your eyes and see your slayer who has killed you.”
+The Philistine looked and saw the angel and said, “Not you alone killed me, but also he who was present with you, whose appearance is not like the appearance of a man.”
+Then David cut off his head.
+The angel of the Lord changed David's appearance, and no one recognized him.
+When Saul saw David, he asked him who he was, and there was no one who recognized him.
