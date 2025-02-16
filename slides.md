@@ -130,6 +130,29 @@ and the plan of all that he had \[by the Spirit\]\.\.\.\.
 layout: quote
 ---
 
+# 2 Chronicles 34:1--3
+Josiah was eight years old when he began to reign; he reigned thirty-one years in Jerusalem.
+He did what was right in the sight of the <sc>Lord</sc>, and walked in the ways of his ancestor David\.\.\.\.
+
+# 2 Chronicles 35:1--3
+Josiah kept a passover to the <sc>Lord</sc> in Jerusalem\.\.\.\.
+He said to the Levites who taught all Israel and who were holy to the <sc>Lord</sc>, “Make preparations by your ancestral houses by your divisions, following the written directions of King David of Israel and the written directions of his son Solomon\.\.\.\.
+Slaughter the passover lamb, sanctify yourselves, and on behalf of your kindred make preparations, acting according to the word of the <sc>Lord</sc> by Moses.”
+
+---
+layout: quote
+---
+
+# 2 Chronicles 35:15
+The singers, the descendants of Asaph, were in their place according to the command of David, and Asaph, and Heman, and the king’s seer Jeduthun.
+
+# Nehemiah 12:24
+And the leaders of the Levites... with their associates over against them, to praise and to give thanks, according to the commandment of David the man of God, section opposite to section.
+
+---
+layout: quote
+---
+
 # *Pss. Sol.* 17:23--51
 See, O Lord, and raise up their king for them, a son of David, for the proper time that you see, God, to rule over Israel your servant. 
 And undergird him with strength to shatter unrighteous rulers. 
@@ -176,4 +199,73 @@ They became party to the plan of Belial in order to cause the S\[ons\] of Li\[gh
 I will be a father to him, and he will be My son” (2 Sam. 7:11c, 12b, 13b–14a).
 This passage refers to the Shoot of David, who is to arise with the Interpreter of the Law, and who will \[arise\] in Zi\[on in the La\]st Days, as it is written, “And I shall raise up the booth of David that is fallen” (Amos 9:11).
 This passage describes the fallen Branch of David, \[w\]hom He shall raise up to deliver Israel.
+
+---
+layout: quote
+---
+
+# 11Q5 27.1--11: “David's Compositions”
+And David, son of Jesse, was wise, and a light like the light of the sun, and learned,\
+and discerning, and perfect in all his paths before God and men. And\
+YHWH gave him a discerning and enlightened spirit. And he wrote psalms:\
+three thousand six hundred; and songs to be sung before the altar over the perpetual\
+offering of every day, for all the days of the year: three hundred\
+and sixty-four; and for the sabbath offerings: fifty-two songs\.\.\.\.\
+All these he spoke through the spirit of prophecy which had been given to him from before the Most High.
+
+---
+layout: quote
+---
+
+# CD 5.1--6
+And concerning the prince it is said, **Let him not multiply wives to himself** (Deut 17:17).
+But David had not read the sealed book of the Torah which was in the ark (of the Covenant), for it was not opened in Israel since the day of the death of Eleazar and Joshua and the elders who worshipped the Ashtoreth.
+And what was (therein) revealed was hidden away until Zadok arose.
+So the deeds of David were accepted—except for the murder of Uriah—for which God forgave him.
+
+# 4QMMT<sup>c</sup> 25--32
+Remember David, who was a man of the pious ones, [and] he, too, [was] freed from many afflictions and was forgiven.
+
+---
+layout: statement
+---
+
+# David in Philo of Alexandria...???
+
+<!--
+* David does not majorly figure into Philo's work.
+* For Philo, Moses is the prototypical king, not David.
+  * David is obliquely referred to as a student of Moses or "a prophetic man whom we do well to trust" in reference to a Psalm.
+* But this demonstrates some of the diversity of early Jewish thought in the first century; David is not a central figure for everyone.
+-->
+
+---
+layout: quote
+---
+
+# Josephus, *Antiquities* 6.165--166
+Then, taking the oil, with David looking on, \[Samouel\] smeared it on him and spoke softly in his ear, indicating that God had chosen him to rule as king\.\.\.\.
+The Deity then abandoned Saoul and went over to David.
+Once the divine spirit transferred to him, he began to prophesy.
+A certain suffering beset Saoul and demons caused him to suffocate and choke\.\.\.\.
+
+---
+layout: quote
+---
+
+# Pseudo-Philo, *Liber Antiquitatum Biblicarum* 59.3--5
+Samuel said to Jesse, “Send and bring your son from the flock, for God has chosen him.”
+Jesse sent and brought David, and Samuel anointed him in the midst of his brothers.
+The Lord was with him from that day.
+Then David undertook to sing this song, and he said, “From the ends of the earth I will give praise, and from the days of old I will extol.
+When Abel at the beginning shepherded flocks, his sacrifice was more acceptable than his brother's, and his brother was jealous of him and killed him.
+But for me it has not gone so, because God protected me and delivered me to his angels and to his guardians to protect me.
+For my brothers were jealous of me, and my father and my mother abandoned me.
+When the prophet came, they did not call to me\.\.\.\.
+But God extended to me his right hand and his mercy.
+Therefore I will not cease singing praises all the days of my life.”
+While David was still speaking, behold a fierce lion from the forest and a bear from the mountain seized the oxen of David\.\.\.\.
+David went out after them and took stones from the forest and killed them.
+God said to him, “Behold, with stones I have delivered up these beasts for you.
+This will be a sign for you that hereafter you will kill the enemy of my people with stones.”
 
