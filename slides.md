@@ -64,7 +64,7 @@ layout: statement
 ---
 
 # How is the character of David developed in early Jewish literature?
-## Chronicles: ca. 4th c. BC
+## Chronicles/Ezra-Nehemiah: ca. 4th c. BC
 ## *Psalms of Solomon*: ca. 2nd c. BC
 ## Qumran: ca. 2nd c. BC--1st c. AD
 ## Philo of Alexandria: 1st c. AD
@@ -168,6 +168,7 @@ The Lord himself is our King forever and further.
 * This is one of the most descriptive messianic texts from the Second Temple period.
 * This passage combines themes and motifs from several different biblical texts, including Jer 23, Isa 11, Psalm 2, and others.
   * We have the son of David smashing the evil rulers of the nations, like Psalm 2.
+    * This makes sense in the context of the Hasmonean period, when the Psalms of Solomon were written.
   * We have the language of purification and cleansing from Ezekiel.
   * We have a righteous ruler, obeying the law of the king from Deuteronomy, whose own king is God himself.
   * All of this is connected to the regathering of Israel's tribes; the post-exilic restoration involves this son of David.
