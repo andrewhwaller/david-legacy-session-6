@@ -65,8 +65,9 @@ layout: statement
 
 # How is the character of David developed in early Jewish literature?
 ## Chronicles: ca. 4th c. BC
-## *Psalms of Solomon*/Sirach: ca. 2nd c. BC
+## *Psalms of Solomon*: ca. 2nd c. BC
 ## Qumran: ca. 2nd c. BC--1st c. AD
+## Philo of Alexandria: 1st c. AD
 ## Josephus and Pseudo-Philo: 1st c. AD
 
 <!--
@@ -147,5 +148,32 @@ The Lord himself is our King forever and further.
   * We have the language of purification and cleansing from Ezekiel.
   * We have a righteous ruler, obeying the law of the king from Deuteronomy, whose own king is God himself.
   * All of this is connected to the regathering of Israel's tribes; the post-exilic restoration involves this son of David.
+* Notably, none of the biblical passages alluded to contains all of the elements that are included here.
+  * That is, you don't get the powerful king smashing the gentile rulers, the anointed purifier of Israel, and the wise ruler regathering the tribes all in one place in the Hebrew Bible.
+  * We commonly associate these elements with *the Davidic messiah*, but this is the result of a confluence of scriptural traditions rather than a singular stream of thought from the Jewish scriptures.
 -->
+
+---
+layout: quote
+---
+
+# 4Q285 f. 7.1--6
+\[… just as it is written in the book of\] Isaiah the prophet, “And \[the thickets of the forest\] shall be cut down \[with an ax, and Lebanon with its majestic trees wil\]l fall. A shoot shall come out from the stump of Jesse \[and a branch shall grow out of his roots” (Isa. 10:34–11:1).
+This is the\] Branch of David. Then \[all forces of Belial\] shall be judged, \[and the king of the Kittim shall stand for judgment] and the Leader of the congregation—the Bra\[nch of David\]—will have him put to death.
+\[Then all Israel shall come out with timbrel\]s and dancers, and the \[high\] priest shall order \[them to cleanse their bodies from the guilty blood of the c\]orpse\[s of\] the Kittim.
+
+---
+layout: quote
+---
+
+# 4Q174 2.18--3.13
+This “place” is the house that \[they shall build for Him\] in the Last Days, as it is written in the book of \[Moses... (Exod. 15:17–18)\.\.\.\.
+Strangers shall not again defile it, as they formerly defiled the Temp\[le of I\]srael through their sins.
+To that end He has commanded that they build Him a Temple of Adam (or Temple of Humankind)\.\.\.\.
+As for what He said to David, “I \[will give\] you \[rest\] from all your enemies” (2 Sam. 7:11b), this passage means that He will give them rest from \[al\]l the children of Belial, who cause them to stumble, seeking to destroy the\[m by means of\] their \[wickedness\].
+They became party to the plan of Belial in order to cause the S\[ons\] of Li\[ght\] to stumble\.\.\.\.
+“Moreover the <sc>Lord</sc> decl\[ares\] to you that He will make you a house,” and that “I will raise up your offspring after you, and establish the throne of his kingdom \[fore\]ver.
+I will be a father to him, and he will be My son” (2 Sam. 7:11c, 12b, 13b–14a).
+This passage refers to the Shoot of David, who is to arise with the Interpreter of the Law, and who will \[arise\] in Zi\[on in the La\]st Days, as it is written, “And I shall raise up the booth of David that is fallen” (Amos 9:11).
+This passage describes the fallen Branch of David, \[w\]hom He shall raise up to deliver Israel.
 
